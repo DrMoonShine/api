@@ -1,0 +1,42 @@
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Friends web api v1.exe
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Friends web api v1.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Friends web api v1.runtimeconfig.json
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Friends web api v1.pdb
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.Identity.Client.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\System.Runtime.Caching.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ethan\source\repos\Friends web api v1\Friends web api v1\obj\Release\net5.0\PubTmp\Out\Friends web api v1.deps.json
